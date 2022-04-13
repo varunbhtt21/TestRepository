@@ -1,11 +1,11 @@
 
 let n = 6;
 
-if(n % 5 == 0)
+if(n % 2 == 0)
 {
-	console.log("Odd");
+	console.log("even");
 }
 else
 {
-	console.log("Even");
+	console.log("odd");
 }
